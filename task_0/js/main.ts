@@ -44,3 +44,4 @@ studentsList.forEach((student) => {
 });
 
 document.body.appendChild(table);
+
